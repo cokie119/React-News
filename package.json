@@ -1,0 +1,28 @@
+{
+  "name": "ractjs",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChenBingChen",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^2.11.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "css-loader": "^0.28.4",
+    "fetch": "^1.1.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-responsive": "^1.3.0",
+    "react-router": "^2.8.1",
+    "style-loader": "^0.18.2",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
